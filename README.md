@@ -1,1 +1,2 @@
 # WSServer
+pip install websockets
